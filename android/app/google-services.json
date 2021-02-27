@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962583502218",
+    "firebase_url": "https://real-bookworm.firebaseio.com",
+    "project_id": "real-bookworm",
+    "storage_bucket": "real-bookworm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962583502218:android:b954e0de99c04f5f16fc73",
+        "android_client_info": {
+          "package_name": "com.yusuferdogan.book_worm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962583502218-hpo1c2s92o158mj5utgpnpt2dg70lq83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuqOAv8PT3AyQ4xk_pYHsqJUBhI4mDd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962583502218-hpo1c2s92o158mj5utgpnpt2dg70lq83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
